@@ -48,7 +48,7 @@ function outputGoods(goods) {
 const DATA = [
   {
     sex: "male",
-    name: "Рубашка №1",
+    name: "Pertama",
     cost: 1000,
     country: "france",
     image:
@@ -57,7 +57,7 @@ const DATA = [
   },
   {
     sex: "male",
-    name: "Рубашка №2",
+    name: "Kedua",
     cost: 1200,
     country: "turkey",
     image:
@@ -66,7 +66,7 @@ const DATA = [
   },
   {
     sex: "male",
-    name: "Рубашка №3",
+    name: "ketiga",
     cost: 1700,
     country: "china",
     image:
