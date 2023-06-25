@@ -30,7 +30,7 @@ function outputGoods(goods) {
       <div class="text-center">
       <h3 class"py-2 font-bold">${n.name}</h3>
       <img src="${n.image}" class="block mx-auto">
-      <p class="font-bold py-4">Цена: ${n.cost}</p>
+      <p class="font-bold py-4">Price: ${n.cost}</p>
       
       <div class="overflow-hidden flex justify-center p-8">
   <button tabindex="-1" data-art="${n.name}" class="focus:outline-none w-32 py-2 rounded-md font-semibold text-white bg-indigo-500 ring-4 ring-indigo-300 hover:bg-indigo-700">
